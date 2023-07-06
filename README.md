@@ -16,5 +16,5 @@ TECHNOLOGIES USED
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 </p>
 
-<h4> Here you have the project deployed: <a href="">/</a></h4>
+<h4> Here you have the project deployed: <a href="https://oriolgfarssac.github.io/REACT-SPRINT2/">https://oriolgfarssac.github.io/REACT-SPRINT2/</a></h4>
 
